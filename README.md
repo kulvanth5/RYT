@@ -1,9 +1,12 @@
-#Raise Your Ticket (RYT) - Django Project
-Overview
+<h1>Raise Your Ticket (RYT) - Django Project</h1>
+
+<h3>Overview</h3>
+
 Welcome to Raise Your Ticket (RYT), a Django-based web application designed to streamline the process of issue resolution within our institute's hostel. This project allows students to
 raise tickets for various concerns they might encounter during their stay in the hostel, facilitating a smoother communication channel between students and different hostel departments.
 
-Features
+<h4>Features</h4>
+
 Ticket Submission: Students can easily submit tickets for issues related to maintenance, room services, food, facilities or any other concerns.
 
 Departmental Assignment: Tickets are automatically assigned to the relevant hostel department, ensuring quick and efficient handling of issues.
