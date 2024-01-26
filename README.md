@@ -7,22 +7,21 @@ raise tickets for various concerns they might encounter during their stay in the
 
 <h4>Features</h4>
 
-Ticket Submission: Students can easily submit tickets for issues related to maintenance, room services, food, facilities or any other concerns.
+<b>Ticket Submission:</b> Students can easily submit tickets for issues related to maintenance, room services, food, facilities or any other concerns.
 
-Departmental Assignment: Tickets are automatically assigned to the relevant hostel department, ensuring quick and efficient handling of issues.
+<b>Departmental Assignment:</b> Tickets are automatically assigned to the relevant hostel department, ensuring quick and efficient handling of issues.
 
-Timly Updates: Users can track the status of their tickets and only they can close their raised tickets once their issue is solved, providing transparency, reducing response times and
-increasing efficiency.
+<b>Timly Updates:</b> Users can track the status of their tickets and only they can close their raised tickets once their issue is solved, providing transparency, reducing response times and increasing efficiency.
 
-Announcements: Besides raising tickets, departmental staff can also make an instant announcement for all the students to reach in within one-click.
+<b>Announcements:</b> Besides raising tickets, departmental staff can also make an instant announcement for all the students to reach in within one-click.
 
-Communication Hub: Built-in messaging features enable direct communication between students and departmental staff, fostering collaboration for issue resolution.
+<b>Communication Hub:</b> Built-in messaging features enable direct communication between students and departmental staff, fostering collaboration for issue resolution.
 
-Installation
+<h3>Installation</h3>
 
 Follow these steps to set up and run the RYT project locally:
 
-Clone the repository: git clone https://github.com/your-username/RYT.git
+<b>Clone the repository:</b> git clone https://github.com/your-username/RYT.git
 Navigate to the project directory: cd RYT
 Apply migrations: python manage.py makemigrations , python manage.py migrate
 Start the development server: python manage.py runserver
